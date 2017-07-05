@@ -1,0 +1,78 @@
+
+img { max-width: 100%; }
+.ui-bar-f{
+	background-color: #000000;
+	color: #FFFFFF;
+	font-family: simsun;
+}
+.ui-body-f{
+	background-color: #FFFFFF;
+}
+#img-bags,#img-shoes{width: 50%;
+float: left;}
+#hot-img-left{width: 99%;
+float: left;
+}
+#hot-img-right{width: 99%;
+float: right;}
+a{text-decoration:none;
+}
+.swiper-container{ width: 100%;}
+.swiper-slide {
+text-align: center;  
+font-size: 18px;  
+background: #fff; 
+		}
+.swiper-slide img{width: 100%;
+height: 100%;}
+.swiper-pagination{
+position: absolute;
+width: 100%;
+left: 0;
+ text-align: center;
+}
+.swiper-pagination{
+ position: absolute;
+ left: 0;
+ text-align: center;
+ bottom:10px;
+ z-index: 999;
+ width: 100%;
+}
+.swiper-pagination-switch {
+  			display: inline-block;
+  			width: 10px;
+  			height: 10px;
+  			border-radius: 10px;
+  			background: #999;
+  			box-shadow: 0px 1px 2px #555 inset;
+  			margin: 0 3px;
+  			cursor: pointer;
+}
+.swiper-active-switch {
+  background: #fff;
+}
+.logo img{ 
+	width: 30%;
+	margin-left: 35%;}
+.order-ul{
+	padding-top: 20px;
+}
+.shopping-btn{
+	margin-top: 35px;
+}
+#news{}
+#news img{
+	width: 30%;
+	margin-left: 35%;
+}
+#news p{margin-bottom: 2em;
+text-align: center;}
+#next img{
+	width: 30%;
+	margin-left: 35%;
+}
+#list a:link{
+	color: #000000;
+	font-weight: normal;
+}
